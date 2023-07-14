@@ -28,3 +28,9 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+Platform  Firebase App Id
+web       1:278391735235:web:ed29da9c792f9faf503376
+android   1:278391735235:android:380eb68c47a5892a503376
+ios       1:278391735235:ios:71807e7875f6b37b503376
+macos     1:278391735235:ios:ea7ce6bfb1cf899e503376
