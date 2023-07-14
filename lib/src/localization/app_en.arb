@@ -1,0 +1,6 @@
+{
+  "appTitle": "firebase_multi_app_demo",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
