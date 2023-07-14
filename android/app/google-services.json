@@ -29,6 +29,13 @@
             {
               "client_id": "278391735235-a9egkb0smcvn1f2ohap48fmf3g30r6g2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "278391735235-2s0tbsla4gk01ov6lil26b8cm60pi7j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseMultiAppDemo"
+              }
             }
           ]
         }
@@ -58,6 +65,13 @@
             {
               "client_id": "278391735235-a9egkb0smcvn1f2ohap48fmf3g30r6g2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "278391735235-2s0tbsla4gk01ov6lil26b8cm60pi7j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseMultiAppDemo"
+              }
             }
           ]
         }
@@ -87,6 +101,13 @@
             {
               "client_id": "278391735235-a9egkb0smcvn1f2ohap48fmf3g30r6g2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "278391735235-2s0tbsla4gk01ov6lil26b8cm60pi7j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseMultiAppDemo"
+              }
             }
           ]
         }
